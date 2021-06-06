@@ -6,6 +6,6 @@ Every Question that i solve will be updated on a daily basis.
 Start Date:- 11th October 2020
 
 Structure of the Repo:   
-1 - 11 : Basic of C++ - 11/Oct/2020.      
+1 - 11 : Basic of C++, EndDate: 11/Oct/2020.      
 200 - x : CodeChef Challenges - Starters/LongChallenge/Lunchtime.  
 400 - x : LeetCode Questions/Challenges.  
